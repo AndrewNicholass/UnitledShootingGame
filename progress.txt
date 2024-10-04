@@ -1,0 +1,14 @@
+T106 - Andrew Nicholas
+06/01/2023
+-Membuat Main Menu
+-Membuat Play Game Menu
+-Membuat Highscore Menu
+-Membuat Help Menu
+-Membuat Player Spawn
+-Membuat Player Movement
+-Membuat Enemy Spawn
+-Membuat Health Pack Spawn
+-Membuat Bullet Move
+-Membuat BSP
+-Membuat Write File
+-Membuat Update Score,Health
